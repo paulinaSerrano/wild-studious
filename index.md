@@ -17,10 +17,3 @@ Da click en las siguientes ligas para enterarte de actividades orientadas a pens
 - [Actividad 2](https://docs.google.com/presentation/d/1hEoJQiTYMGfjNjHCyecqLppD_1H0Fyw_CP7ENhacau4/edit#slide=id.p1)
 
 😸
-
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/paulinaSerrano/wild-studious/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-
